@@ -1,5 +1,20 @@
 # dsa-solutions
-My Data Structures and Algorithms solutions for Coding interviews
+My Data Structures and Algorithms practice repository.
+
+## Goals
+- Improve problem-solving skills
+- prepare for SDE placements
+- Master DSA concepts
+- Maintain a record of solved problems
+
+## Language
+Java
+
+## Topics
+
+
+## Platforms
+- Leetcode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
