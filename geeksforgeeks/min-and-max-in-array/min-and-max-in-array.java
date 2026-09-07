@@ -1,0 +1,2 @@
+                maxVal = arr[i];
+
