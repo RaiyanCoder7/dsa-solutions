@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
