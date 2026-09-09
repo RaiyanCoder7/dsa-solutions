@@ -6,9 +6,7 @@ class Solution {
         for (int num : nums) {
             if (num == 1) {
                 currentCount++;
-                if (currentCount > maxCount) {
-                    maxCount = currentCount;
-                }
+                maxCount = Math.max(currentCount, maxCount);
             } else {
                 currentCount = 0;
             }
