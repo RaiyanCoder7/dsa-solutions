@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0007-reverse-integer) |
 <!---LeetCode Topics End-->
