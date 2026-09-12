@@ -1,13 +1,7 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        if(nums == null || nums.length <= 1) {
-            return;
-        }
         int n = nums.length;
         k = k%n;
-        if(k==0) {
-            return;
-        }
         int left = 0;
         int right = n-1;
         while(left < right) {
