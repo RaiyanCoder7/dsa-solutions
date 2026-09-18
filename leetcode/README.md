@@ -92,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0242-valid-anagram) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
