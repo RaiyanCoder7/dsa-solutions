@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0125-valid-palindrome) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0014-longest-common-prefix) |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0014-longest-common-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
