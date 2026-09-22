@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0324-wiggle-sort-ii) |
 | [0485-max-consecutive-ones](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0485-max-consecutive-ones) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0324-wiggle-sort-ii) |
 ## Quicksort
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -74,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
