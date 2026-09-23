@@ -3,12 +3,13 @@ class Solution {
         int n = nums.length;
         int[] sorted = nums.clone();
         Arrays.sort(sorted);
-        int ptr = n - 1;
-        for (int i = 1; i < n; i += 2) {
-            nums[i] = sorted[ptr--];
+        int left = (n-1)/2;
+        int right = n-1;
+        for(int i = 1; i < n; i+= 2) {
+            nums[i] = sorted[right--];
         }
-        for (int i = 0; i < n; i += 2) {
-            nums[i] = sorted[ptr--];
+        for(int i = 0; i < n; i+= 2) {
+            nums[i] = sorted[left--];
         }
     }
 }
