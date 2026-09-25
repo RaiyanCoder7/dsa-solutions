@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
