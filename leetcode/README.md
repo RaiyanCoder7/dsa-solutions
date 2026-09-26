@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0242-valid-anagram) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1890-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1890-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1302-delete-characters-to-make-fancy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1890-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
 | ------- |
