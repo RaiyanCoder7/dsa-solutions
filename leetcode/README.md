@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0054-spiral-matrix) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
