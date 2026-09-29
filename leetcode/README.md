@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0041-first-missing-positive) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
