@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0162-find-peak-element) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
