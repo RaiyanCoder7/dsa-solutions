@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2271-rearrange-array-elements-by-sign) |
+| [2737-row-with-maximum-ones](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2737-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2737-row-with-maximum-ones](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2737-row-with-maximum-ones) |
 ## String
 |  |
 | ------- |
