@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0324-wiggle-sort-ii) |
 | [0485-max-consecutive-ones](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0485-max-consecutive-ones) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0324-wiggle-sort-ii) |
 ## Counting
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0792-binary-search) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
