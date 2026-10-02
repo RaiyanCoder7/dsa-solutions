@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2047-find-a-peak-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2737-row-with-maximum-ones) |
 ## Two Pointers
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2047-find-a-peak-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2047-find-a-peak-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2737-row-with-maximum-ones) |
 ## String
 |  |
