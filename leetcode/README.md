@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0367-valid-perfect-square) |
 ## Simulation
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0792-binary-search) |
