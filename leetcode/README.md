@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0367-valid-perfect-square) |
+| [1013-fibonacci-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -218,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0410-split-array-largest-sum) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
