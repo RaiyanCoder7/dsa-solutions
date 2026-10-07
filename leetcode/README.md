@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0048-rotate-image) |
+| [0050-powx-n](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0050-powx-n) |
 | [0069-sqrtx](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0367-valid-perfect-square) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1013-fibonacci-number) |
 ## Memoization
 |  |
