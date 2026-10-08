@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2050-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
