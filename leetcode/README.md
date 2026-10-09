@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0907-koko-eating-bananas) |
+| [0941-sort-array-by-parity](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0948-sort-an-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0283-move-zeroes) |
+| [0941-sort-array-by-parity](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0941-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0324-wiggle-sort-ii) |
+| [0941-sort-array-by-parity](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0948-sort-an-array) |
 ## Quicksort
 |  |
