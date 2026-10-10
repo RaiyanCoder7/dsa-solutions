@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0948-sort-an-array) |
+| [0974-reorder-data-in-log-files](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0974-reorder-data-in-log-files) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0324-wiggle-sort-ii) |
 | [0941-sort-array-by-parity](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0948-sort-an-array) |
+| [0974-reorder-data-in-log-files](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0974-reorder-data-in-log-files) |
 ## Quicksort
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0812-rotate-string) |
+| [0974-reorder-data-in-log-files](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0974-reorder-data-in-log-files) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1302-delete-characters-to-make-fancy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1890-sum-of-beauty-of-all-substrings) |
