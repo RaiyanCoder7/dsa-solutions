@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0242-valid-anagram) |
@@ -258,13 +260,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0948-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0948-sort-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0948-sort-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0164-maximum-gap) |
 <!---LeetCode Topics End-->
