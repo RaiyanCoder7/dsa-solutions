@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0898-transpose-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0324-wiggle-sort-ii) |
+| [0493-reverse-pairs](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0948-sort-an-array) |
 ## Counting
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0907-koko-eating-bananas) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -281,4 +285,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0164-maximum-gap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
