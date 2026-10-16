@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2050-count-good-numbers) |
 ## Memoization
@@ -301,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
