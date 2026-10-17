@@ -1,0 +1,17 @@
+{
+  "hackerrank": {
+    "solved": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "unknown": 0,
+    "shas": {
+      "insert-a-node-at-the-tail-of-a-linked-list": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "Java 15",
+        "date": "2026-10-17T13:20:47.515Z"
+      }
+    }
+  }
+}
