@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0410-split-array-largest-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0324-wiggle-sort-ii) |
 | [0941-sort-array-by-parity](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0948-sort-an-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0050-powx-n) |
 | [0069-sqrtx](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0189-rotate-array) |
+| [0268-missing-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2050-count-good-numbers) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0268-missing-number) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1890-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0410-split-array-largest-sum) |
@@ -258,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0268-missing-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Heap (Priority Queue)
 |  |
