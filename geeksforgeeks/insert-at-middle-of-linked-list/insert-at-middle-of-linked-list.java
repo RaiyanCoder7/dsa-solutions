@@ -14,25 +14,22 @@ class Solution {
     public Node insertInMiddle(Node head, int x) {
         // code here
         Node newNode = new Node(x);
-
-        // Edge case: Empty list
-        if (head == null) {
+        if(head == null) {
             return newNode;
         }
-
-        Node slow = head;
-        Node fast = head.next;
-
-        // Advance slow by 1 and fast by 2
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
+        int count = 0;
+        Node temp =  head;
+        while(temp != null) {
+            count++;
+            temp = temp.next;
         }
-
-        // Insert newNode after slow
-        newNode.next = slow.next;
-        slow.next = newNode;
-
+        int mid = (count + 1) / 2;
+        Node current = head;
+        for(int i = 1; i < mid; i++) {
+            current = current.next;
+        }
+        newNode.next = current.next;
+        current.next = newNode;
         return head;
     }
 }
