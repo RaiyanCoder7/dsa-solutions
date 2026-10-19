@@ -307,4 +307,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
