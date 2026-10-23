@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0206-reverse-linked-list) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0142-linked-list-cycle-ii) |
