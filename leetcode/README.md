@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0941-sort-array-by-parity) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2050-count-good-numbers) |
 ## Memoization
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2216-delete-the-middle-node-of-a-linked-list) |
