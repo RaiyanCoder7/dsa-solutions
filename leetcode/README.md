@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0812-rotate-string) |
 | [0974-reorder-data-in-log-files](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0974-reorder-data-in-log-files) |
+| [1078-remove-outermost-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1302-delete-characters-to-make-fancy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1890-sum-of-beauty-of-all-substrings) |
@@ -244,11 +245,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0445-add-two-numbers-ii) |
+| [1078-remove-outermost-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
