@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0974-reorder-data-in-log-files) |
 | [1078-remove-outermost-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0445-add-two-numbers-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0020-valid-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0410-split-array-largest-sum) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 ## Quickselect
 |  |
 | ------- |
