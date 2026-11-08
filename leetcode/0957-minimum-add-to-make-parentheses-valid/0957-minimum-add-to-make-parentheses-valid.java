@@ -1,21 +1,18 @@
 class Solution {
     public int minAddToMakeValid(String s) {
         int openCount = 0;
-        int insertions = 0;
-
-        for (char ch : s.toCharArray()) {
-            if (ch == '(') {
+        int additions = 0;
+        for(char ch : s.toCharArray()) {
+            if(ch == '(') {
                 openCount++;
-            } else { // ch == ')'
-                if (openCount > 0) {
-                    openCount--; // Successfully matched with a prior '('
+            } else {
+                if(openCount > 0) {
+                    openCount--;
                 } else {
-                    insertions++; // Needs an inserted '(' before it
+                    additions++;
                 }
             }
         }
-
-        // Remaining unmatched '(' also need matching ')'
-        return insertions + openCount;
+        return openCount + additions;
     }
 }
