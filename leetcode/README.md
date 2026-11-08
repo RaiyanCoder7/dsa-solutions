@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1302-delete-characters-to-make-fancy-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1890-sum-of-beauty-of-all-substrings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
