@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0898-transpose-matrix) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
@@ -394,4 +396,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
