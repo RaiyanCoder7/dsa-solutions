@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0907-koko-eating-bananas) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1078-remove-outermost-parentheses) |
