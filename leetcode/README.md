@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0974-reorder-data-in-log-files) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0503-next-greater-element-ii) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0324-wiggle-sort-ii) |
+| [0402-remove-k-digits](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 ## Quickselect
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0937-online-stock-span) |
