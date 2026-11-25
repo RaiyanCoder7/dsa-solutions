@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2000-minimum-speed-to-arrive-on-time) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2047-find-a-peak-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2737-row-with-maximum-ones) |
 ## Two Pointers
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2227-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
