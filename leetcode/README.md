@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0402-remove-k-digits) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/RaiyanCoder7/dsa-solutions/tree/master/LeetCode/0937-online-stock-span) |
 ## Data Stream
 |  |
